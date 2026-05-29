@@ -1,0 +1,4 @@
+# Blokada ciężkich danych analitycznych
+data/nyc_taxi.db
+data/*.parquet
+.idea/
